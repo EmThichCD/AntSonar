@@ -19,7 +19,7 @@ public class Antdemo {
         System.out.println("45tt");
         String a=null;
         if(){
-            
+            String a=
         }
     }
     
