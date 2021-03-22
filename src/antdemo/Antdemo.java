@@ -20,6 +20,7 @@ public class Antdemo {
         String a=null;
         if(a.equals(null)){
             String e="";
+            System.out.println(e);
         }
     }
     
